@@ -4,4 +4,4 @@ echo 'Hola mundo';
 
 ?>
 
-<?php include(__DIR__.'../sintaxis/numbers.php'); ?>
+<?php include(__DIR__.'../sintaxis/strings.php'); ?>
