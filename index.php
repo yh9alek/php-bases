@@ -4,8 +4,4 @@ echo 'Hola mundo';
 
 ?>
 
-<?php 
-
-echo 'Esto se concatenara en la salida'
-
-?>
+<?php include(__DIR__.'../sintaxis/numbers.php'); ?>
