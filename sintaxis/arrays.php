@@ -77,7 +77,7 @@ $array = [
 // Así accedemos a un elemento asociado a una llave
 echo $array['manzana'];  // Imprime 🍎
 
-// En un array asociativo puede haber tanto elemento no asociados como asociados
+// En un array asociativo pueden haber tanto elementos no asociados como asociados
 $array = [
     'manzana' => '🍎',
     '🥥',  //  -> [0]
